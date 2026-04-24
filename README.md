@@ -1,4 +1,4 @@
-<img width="1066" height="1000" alt="image" src="https://github.com/user-attachments/assets/f2a4df44-3765-4641-b4f7-170929353bc1" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f2a4df44-3765-4641-b4f7-170929353bc1" />
 
 
 1. AI Shopping Assistant Overview
