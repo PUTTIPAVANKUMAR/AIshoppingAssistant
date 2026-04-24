@@ -1,3 +1,7 @@
+
+Telegram AIShoppingAssistant Bot user name : @GoogleShoppingAssistant_bot
+
+
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f2a4df44-3765-4641-b4f7-170929353bc1" />
 
 <img width="1200" height="850" alt="Screenshot 2026-04-24 165955" src="https://github.com/user-attachments/assets/4463943f-3238-4099-9871-10d7b2053b36" />
